@@ -1,0 +1,14 @@
+.rows{
+	min-height: 500px;
+	
+}
+
+#main-container{
+	padding: 100px;
+	float: right;
+	
+}
+.header{
+	background: #363e4f;
+	padding: 15px;
+}

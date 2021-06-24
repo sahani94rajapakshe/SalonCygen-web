@@ -1,0 +1,163 @@
+/*styles for page_list_results*/
+body{
+	background: #FFCBA4;
+	color: #fff;
+	font-family: "Arial";
+	/*background-image: url("./images/salonList.jpg");*/
+	
+}
+.imgid{
+	border: 0px;
+	padding: 4px;
+
+	width: 150px;
+	height: 140px;
+	
+}
+
+#main-container{
+	padding: 100px;
+	float: right;
+
+}
+
+.left-container{
+	min-height: 200px;
+	background: #fff;
+	margin-top: 20px;
+	margin-top: 0px;
+}
+
+.salon-container{
+	min-height: 200px;
+	background: #2c3446;
+	margin-top: 85px;
+	margin-left: 200px;
+	width: 72%;
+	border: solid #DC381F 1px;
+}
+
+.left-column{
+	width: 150px;
+	float: left;
+	background: #fff;
+	padding: 4px;
+	
+
+}
+
+.right-column{
+	margin-left: 150px;
+	padding: 20px;
+}
+
+.header{
+	background: #363e4f;
+	padding: 10px;
+	position: fixed;
+}
+
+h3{
+	color: #E41B17;
+	font-size: 24px;
+	font-weight: bold;
+	display: inline;
+}
+
+.content{
+	background: #fff;
+}
+
+.content.description{
+	color: #3E3B3C;
+	height: 85px;
+	margin-top: 15px;
+	font-size: 10px;
+
+}
+
+.content.text{
+	color: #FF615D;
+}
+
+.content.name{
+	color: #E41B17;
+}
+.content.star{
+	color: #E9AB17;
+}
+
+
+
+
+.content.city{
+	color: #E41B17;
+	font-size: 12px;
+}
+
+a{
+	text-decoration: underline;
+	color: #2B65EC;
+	font-size: 12px;
+}
+
+#rateView{
+	font-size: 15px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 30px;
+	color: #000;
+	width: 151px;
+	margin-left: 2.6px;
+
+
+}
+
+.rates{
+	background: #f2cc70;
+	padding: 4px;
+	height: 30px;
+	margin-top: 10px;
+}
+
+.views{
+	background: #61c74f;
+	font-size: 7pt;
+	padding: 4px;
+	height: 30px;
+
+}
+ .p{
+ 	font-size: 1pt;
+ }
+
+/*#header{
+	position:fixed;
+	top:0px;}*/
+
+
+	
+/*.button{
+	background: #1569C7;
+	width: 20%;
+	height: 45px;
+	text-align: center;
+vertical-align: middle;
+line-height: 50px;
+border-radius: 10px;*/
+
+
+
+
+}
+
+/*.split {
+  height: 100%;
+  
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+}*/
+
